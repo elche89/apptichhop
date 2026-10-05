@@ -1,0 +1,8 @@
+{
+  "name": "KHBD Năng Lực Số - Soạn Giáo Án NLS",
+  "description": "Công cụ hỗ trợ giáo viên tích hợp Năng lực số vào Kế hoạch bài dạy (KHBD) theo chuẩn Công văn 5512. Bản quyền thuộc BÙI VĂN TRUNG - GV trường THCS Thái Thịnh, phường Đống Đa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
